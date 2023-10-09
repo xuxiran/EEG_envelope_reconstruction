@@ -4,6 +4,8 @@ Attention: all the code would be released after paper publication
 
 English
 This is the code of project won the "Challenge of Auditory-EEG".You could get the original data and final rank in https://challenge.xfyun.cn/topic/info?type=auditory-eeg
+![image](https://github.com/xuxiran/EEG_envelope_reconstruction/assets/48015859/cb8d37c7-7e48-4085-930f-903ea14eddd3)
+
 This is a brief introduction to the solution for the project. Firstly, we will introduce the testing related code, followed by the training related code.
 The Python environment used is 3.9, and the version of Torch used is 1.13.0.
 
@@ -42,6 +44,8 @@ and all code will be made available on Github after the paper is completed and s
 
 中文：
 这是我们在算法挑战赛：听觉脑电（Auditory-EEG）挑战赛的实现方案（最终排名第一）。在网址https://challenge.xfyun.cn/topic/info?type=auditory-eeg，你将能能看到比赛简介、数据以及最终排行榜。
+![image](https://github.com/xuxiran/EEG_envelope_reconstruction/assets/48015859/8bf77507-6909-47ab-a1eb-6ce806feac9b)
+
 这是project的解决方案简介。首先我们将介绍测试相关代码，然后介绍训练相关代码。python环境为3.9，torch版本为1.13.0
 
 解决方案：一种类似于VAIIL的改进模型被提出。具体的逻辑将在论文发表后公开。您只需要运行train.py就可以复现训练流程。
