@@ -43,7 +43,7 @@ and the need to submit other work. The complete paper for this project will be w
 and all code will be made available on Github after the paper is completed and submitted on arxiv.
 
 中文：
-这是我们在算法挑战赛：听觉脑电（Auditory-EEG）挑战赛的实现方案（最终排名第一）。在网址https://challenge.xfyun.cn/topic/info?type=auditory-eeg，你将能能看到比赛简介、数据以及最终排行榜。
+这是我们在算法挑战赛：听觉脑电（Auditory-EEG）挑战赛的实现方案（最终排名第一）。在网址https://challenge.xfyun.cn/topic/info?type=auditory-eeg，你将能看到比赛简介、数据以及最终排行榜。
 ![image](https://github.com/xuxiran/EEG_envelope_reconstruction/assets/48015859/8bf77507-6909-47ab-a1eb-6ce806feac9b)
 
 这是project的解决方案简介。首先我们将介绍测试相关代码，然后介绍训练相关代码。python环境为3.9，torch版本为1.13.0
