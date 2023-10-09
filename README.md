@@ -38,9 +38,6 @@ Although we cannot submit VIAAL, on the local validation set, the random seed al
 We will continue to investigate this in the future. Pilot experiment suggests that the difference in the final result may be due to the dataset partitioning 
 and model initialization, which is a common reason in other machine learning fields.
 
-Closing Remarks: We apologize for the limited time available to provide a more complete report due to the deadline of ICASSP paper submission
-and the need to submit other work. The complete paper for this project will be written after the ICASSP paper submission deadline, 
-and all code will be made available on Github after the paper is completed and submitted on arxiv.
 
 中文：
 这是我们在算法挑战赛：听觉脑电（Auditory-EEG）挑战赛的实现方案（最终排名第一）。在网址https://challenge.xfyun.cn/topic/info?type=auditory-eeg，你将能看到比赛简介、数据以及最终排行榜。
@@ -74,5 +71,3 @@ test.py运行后，您将在'project/prediction_result/'下获得所有被试的
 虽然我们没有办法提交VIAAL，但是在本地验证集上，随机种子对验证集结果也会产生较大的影响。
 这一点我们将在后期继续研究。初期分析，可能是由于数据集划分以及模型初始化导致了最终结果的差异，这也是其它机器学习领域较为常见的原因。
 
-写在最后：我们很抱歉由于ICASSP的临近并且我们有其它工作需要投稿，很难抽出时间给出一份更加完整的报告。
-这项工作完整的论文将在ICASSP投稿结束后开始撰写，在论文撰写完成并投稿至arxiv后，所有代码将开源至Github。
